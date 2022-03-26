@@ -34,4 +34,4 @@ const AlexZhang: SimpleDeveloper & Human = {
 
 ![stat](https://github-readme-stats.vercel.app/api?username=alexzhang1030)
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhang1030&layout=compact)
-![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/e02244409f36f107b2202ca03d5819600c2b6b56/assets/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif)
