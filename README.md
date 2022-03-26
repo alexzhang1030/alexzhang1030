@@ -27,7 +27,7 @@ const AlexZhang: SimpleDeveloper & Human = {
     'Photoshop',
     'others',
   ],
-  age: 19,
+  age: 20,
   gender: 'Male',
 }
 ```
