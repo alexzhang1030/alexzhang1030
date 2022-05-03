@@ -2,7 +2,7 @@ Hi there! 👋🏻
 
 I'm Alex Zhang.
 
-I'm now living and working in Beijing, China.
+I'm current living and working in Beijing, China.
 
 ```typescript
 type Skill = string
