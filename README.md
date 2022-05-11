@@ -17,13 +17,14 @@ const AlexZhang: SimpleDeveloper & Human = {
   skills: [
     'JavaScript',
     'TypeScript',
-    'Scss',
-    'Vue2',
+    'Svelte',
+    'Tailwind.css'
     'Vue3',
-    'Express',
+    'Koa2',
     'Webpack',
     'Vite2',
     'Rollup',
+    'tsup'
     'Photoshop',
     'others',
   ],
