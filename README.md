@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/88925b1c-e98b-4642-94af-54317c812e3d/project/79ac7060-7e0a-453d-9b2b-477888868645.svg)](https://wakatime.com/badge/user/88925b1c-e98b-4642-94af-54317c812e3d/project/79ac7060-7e0a-453d-9b2b-477888868645)
+
 Hi there! 👋🏻
 
 I'm Alex Zhang.
