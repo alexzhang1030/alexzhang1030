@@ -20,14 +20,14 @@ const AlexZhang: SimpleDeveloper & Human = {
     'JavaScript',
     'TypeScript',
     'Svelte',
-    'Tailwind.css'
+    'Uno.css'
     'Vue3',
     'Koa2',
     'Webpack',
-    'Vite2',
+    'Vite',
     'Rollup',
     'tsup'
-    'Photoshop',
+    'Vitest',
     'others',
   ],
   age: 20,
