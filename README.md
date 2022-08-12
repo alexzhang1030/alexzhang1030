@@ -2,42 +2,24 @@
 
 Hi there! 👋🏻
 
-I'm Alex Zhang.
+I'm Alex Zhang, living and working in Beijing, China.
 
-I'm current living and working in Beijing, China.
+### My tech stack ✨
 
-```typescript
-type Skill = string
-interface SimpleDeveloper {
-  skills: Skill[]
-}
-interface Human {
-  age: number
-  gender: 'Male' | 'Female'
-}
-const AlexZhang: SimpleDeveloper & Human = {
-  skills: [
-    'JavaScript',
-    'TypeScript',
-    'Svelte',
-    'Uno.css'
-    'Vue3',
-    'Koa2',
-    'Webpack',
-    'Vite',
-    'Rollup',
-    'tsup'
-    'Vitest',
-    'others',
-  ],
-  age: 20,
-  gender: 'Male',
-}
-```
+I use `TypeScript` and `Vue` do some projects, current learning `Rust` for developing toolchain.
 
-![AlexZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexzhang1030&show_icons=true&theme=radical)
-![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif)
+### My friends 😎
 
-## Visitors
+I would like to recommand my friend [tick](https://github.com/TickHeart), he is very excellent.
+
+### How to reach me 👐
+
+- Email: alexzhang1030@foxmail.com
+- Wechat: alexYunxiao
+
+<!-- ![AlexZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexzhang1030&show_icons=true&theme=radical) -->
+<!-- ![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif) -->
+
+## Visitors Count
 
 ![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
