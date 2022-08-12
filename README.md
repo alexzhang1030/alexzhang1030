@@ -12,7 +12,7 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 
 I would like to recommand my friend [tick](https://github.com/TickHeart), he is very excellent.
 
-### How to reach me 👐
+### How to reach me 🚀
 
 - Email: alexzhang1030@foxmail.com
 - Wechat: alexYunxiao
