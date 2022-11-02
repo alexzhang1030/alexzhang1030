@@ -16,7 +16,8 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 - [ec](https://github.com/alexzhang1030/ss): `.editorconfig` file generator util
 - [pim](https://github.com/alexzhang1030/pim): package info modifyer when you use a `public` template
 - [gi](https://github.com/alexzhang1030/gi): a simple way to create your custom .gitignore
-- [npms](https://github.com/alexzhang1030/npms): a cli shows and executes your project npm scripts
+- [npms](https://github.com/alexzhang1030/npms): a cli shows and executes your project npm script
+- [extd-cli](https://github.com/alexzhang1030/extd-cli): Wrapper [extd](https://github.com/alexzhang1030/extd) as a CLI
 
 ### Libraries
 
