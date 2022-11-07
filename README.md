@@ -2,7 +2,7 @@ Hi there! 👋🏻
 
 I'm Alex Zhang, living and working in Beijing, China.
 
-## My Tech Stack ✨
+## My Tech Stack
 
 I use `TypeScript` and `Vue` do some projects, current learning `Rust` for developing toolchain.
 
@@ -28,12 +28,7 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 - [views](https://github.com/alexzhang1030/views): Explore UI views powered by Astro
 - [svelte-tomato-clock](https://github.com/alexzhang1030/svelte-tomato-clock): tomato clock by svelte
 
-
-### My Friends 😎
-
-I would like to recommand my friend [tick](https://github.com/TickHeart), he is very excellent.
-
-## How To Reach Me 🚀
+## How To Reach Me
 
 - Email: alexzhang1030@foxmail.com
 - Wechat: alexYunxiao
