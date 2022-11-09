@@ -39,3 +39,12 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 ## Visitors Count
 
 ![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
+
+## Music Journey
+
+<p>
+  <img src="https://netease-recent-profile.vercel.app?id=297303604&title=Weekly" />
+  <img src="https://netease-recent-profile.vercel.app?id=297303604&type=0&title=All" />
+</p>
+
+
