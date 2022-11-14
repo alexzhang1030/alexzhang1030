@@ -42,9 +42,6 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 
 ## Music Journey
 
-<p>
-  <img src="https://netease-recent-profile.vercel.app?id=297303604&title=Weekly&show_percent=1" />
-  <img src="https://netease-recent-profile.vercel.app?id=297303604&type=0&title=All&show_percent=1" />
-</p>
+![Recently Played](https://netease-recent-profile.vercel.app?id=297303604&show_percent=1)
 
 
