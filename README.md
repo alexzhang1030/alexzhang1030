@@ -22,6 +22,7 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 - [nl](https://github.com/alexzhang1030/nl): node environment log helper
 - [colid](https://github.com/alexzhang1030/colid): Collection of essential Solid-JS Composable Utiliti
 - [ztcanvas](https://github.com/zxTick/ztcanvas): a lightweight Canvas Engine
+- [swc-plugin-remove-console](https://github.com/alexzhang1030/swc-plugin-remove-console): helps you remove `console` statement in your code
 
 ### UI Views
 
