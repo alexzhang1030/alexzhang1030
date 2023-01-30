@@ -1,9 +1,5 @@
 Hi there! 👋🏻
 
-I'm Alex Zhang, based on Beijing, China.
-
-My skills: 
-
 <samp>
   <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg?color=%23000000" /></a> .
   <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23000000" /></a> .
