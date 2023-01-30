@@ -12,7 +12,6 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 
 - [ss](https://github.com/alexzhang1030/ss): A CLI imporves your web search experience.
 - [ec](https://github.com/alexzhang1030/ss): `.editorconfig` file generator util
-- [pim](https://github.com/alexzhang1030/pim): package info modifyer when you use a `public` template
 - [gi](https://github.com/alexzhang1030/gi): a simple way to create your custom .gitignore
 - [npms](https://github.com/alexzhang1030/npms): a cli shows and executes your project npm script
 - [extd-cli](https://github.com/alexzhang1030/extd-cli): Wrapper [extd](https://github.com/alexzhang1030/extd) as a CLI
@@ -20,7 +19,7 @@ I use `TypeScript` and `Vue` do some projects, current learning `Rust` for devel
 ### Libraries
 
 - [nl](https://github.com/alexzhang1030/nl): node environment log helper
-- [colid](https://github.com/alexzhang1030/colid): Collection of essential Solid-JS Composable Utiliti
+- [colid](https://github.com/alexzhang-dev/colid): Collection of essential Solid-JS Composable Utiliti
 - [ztcanvas](https://github.com/zxTick/ztcanvas): a lightweight Canvas Engine
 - [swc-plugin-remove-console](https://github.com/alexzhang1030/swc-plugin-remove-console): helps you remove `console` statement in your code
 
