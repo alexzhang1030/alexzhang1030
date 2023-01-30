@@ -2,7 +2,12 @@ Hi there! 👋🏻
 
 I'm Alex Zhang, based on Beijing, China.
 
-I use `TypeScript` and `Vue` do some projects, current learning `Rust` for developing toolchain.
+My skills:
+
+- Vue
+- TypeScript
+- UnoCSS
+- Rust(In learing)
 
 ## My works
 
