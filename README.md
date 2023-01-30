@@ -1,12 +1,10 @@
 Hi there! 👋🏻
 
-I'm Alex Zhang, living and working in Beijing, China.
-
-## My Tech Stack
+I'm Alex Zhang, based on Beijing, China.
 
 I use `TypeScript` and `Vue` do some projects, current learning `Rust` for developing toolchain.
 
-## What I have made
+## My works
 
 ### CLIs
 
