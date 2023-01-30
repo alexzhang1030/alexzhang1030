@@ -2,12 +2,14 @@ Hi there! 👋🏻
 
 I'm Alex Zhang, based on Beijing, China.
 
-My skills:
+My skills: 
 
-- Vue
-- TypeScript
-- UnoCSS
-- Rust(In learing)
+<samp>
+  <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg?color=%23000000" /></a> .
+  <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg?color=%23000000" /></a> .
+  <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg?color=%23000000" /></a> .
+  <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg?color=%230239bb" /></a>
+</samp>
 
 ## How To Reach Me
 
