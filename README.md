@@ -20,8 +20,4 @@ Hi there! 👋🏻
 
 ![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
 
-## Music Journey
-
-![Recently Played](https://netease-recent-profile.vercel.app?id=297303604&show_percent=1)
-
 
