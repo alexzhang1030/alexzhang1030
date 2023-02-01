@@ -2,6 +2,7 @@ Hi there! 👋🏻
 
 <samp>
   <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a> .
+  <a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a> .
   <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a> .
   <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a> .
   <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
