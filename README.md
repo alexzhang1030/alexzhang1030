@@ -19,7 +19,7 @@ Hi there! 👋🏻
 
 ## Recently Played
 
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=126764012&show_percent=1&size=60)
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)
 
 ## Visitors Count
 
