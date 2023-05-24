@@ -1,5 +1,8 @@
 Hi there! 👋🏻
 
+- [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
+- [@vue-macros](https://github.com/vue-macros) member
+
 <samp>
   <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a> .
   <a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a> .
