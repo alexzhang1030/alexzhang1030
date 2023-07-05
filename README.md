@@ -2,6 +2,7 @@ Hi there! 👋🏻
 
 - [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
 - [@vue-macros](https://github.com/vue-macros) member
+- [@vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) maintainer
 
 <samp>
   <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a> .
