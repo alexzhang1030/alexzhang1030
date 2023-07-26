@@ -13,11 +13,6 @@ Hi there! 👋🏻 I am a
   <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
 </samp>
 
-## How To Reach Me
-
-- Email: alexzhang1030@foxmail.com
-- Wechat: alexYunxiao
-
 <!-- ![AlexZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexzhang1030&show_icons=true&theme=radical) -->
 <!-- ![snake](https://raw.githubusercontent.com/alexzhang1030/alexzhang1030/main/assets/github-contribution-grid-snake.gif) -->
 
