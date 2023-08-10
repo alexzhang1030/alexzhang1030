@@ -15,12 +15,6 @@ Hi there! 👋🏻 I am a
 <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code> 
 <code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
 
-<br/>
-
-<code><a href="https://www.apple.com/mac/"><img src="https://api.iconify.design/logos:macos.svg" /></a></code>
-<code><a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/logos:visual-studio-code.svg" /></a></code>
-<code><a href="https://neovim.io/"><img src="https://api.iconify.design/logos:neovim.svg" /></a></code>
-
 <hr>
 
 ### 📊 Weekly development breakdown
