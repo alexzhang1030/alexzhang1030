@@ -17,15 +17,21 @@ Hi there! 👋🏻 I am a
   <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
 </samp>
 
+<hr>
+
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Recently Played
+<hr>
+
+### 🎵 Recently Played
 
 [![Netease recently played](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)
 
-### Visitors Count
+<hr>
+
+### 👀 Visitors Count
 
 ![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
