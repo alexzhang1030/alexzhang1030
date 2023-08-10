@@ -1,6 +1,6 @@
 Hi there! 👋🏻 I am a
 
-- [@elk-zone](https://github.com/elk-zone) <sub>farm</sub> member
+- [@elk-zone](https://github.com/elk-zone) <sup>farm</sup> member
 - [@vue-macros](https://github.com/vue-macros) member
 - [vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) maintainer
 
@@ -9,12 +9,20 @@ Hi there! 👋🏻 I am a
 ### 🧑‍💻 Things I code with
 
 <samp>
-  <a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a> .
-  <a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a> .
-  <a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a> .
-  <a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a> .
-  <a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a> .
-  <a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a>
+  <code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a></code> 
+  <code><a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a></code> 
+  <code><a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a></code> 
+  <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
+  <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code> 
+  <code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
+</samp>
+
+<br>
+
+<samp>
+  <code><a href="https://www.apple.com/mac/"><img src="https://api.iconify.design/logos:macos.svg" /></a></code>
+  <code><a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/logos:visual-studio-code.svg" /></a></code>
+  <code><a href="https://neovim.io/"><img src="https://api.iconify.design/logos:neovim.svg" /></a></code>
 </samp>
 
 <hr>
