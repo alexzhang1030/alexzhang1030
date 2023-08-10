@@ -8,22 +8,18 @@ Hi there! 👋🏻 I am a
 
 ### 🧑‍💻 Things I code with
 
-<samp>
-  <code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a></code> 
-  <code><a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a></code> 
-  <code><a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a></code> 
-  <code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
-  <code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code> 
-  <code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
-</samp>
+<code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a></code> 
+<code><a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a></code> 
+<code><a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a></code> 
+<code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
+<code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code> 
+<code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
 
-<br>
+<br/>
 
-<samp>
-  <code><a href="https://www.apple.com/mac/"><img src="https://api.iconify.design/logos:macos.svg" /></a></code>
-  <code><a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/logos:visual-studio-code.svg" /></a></code>
-  <code><a href="https://neovim.io/"><img src="https://api.iconify.design/logos:neovim.svg" /></a></code>
-</samp>
+<code><a href="https://www.apple.com/mac/"><img src="https://api.iconify.design/logos:macos.svg" /></a></code>
+<code><a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/logos:visual-studio-code.svg" /></a></code>
+<code><a href="https://neovim.io/"><img src="https://api.iconify.design/logos:neovim.svg" /></a></code>
 
 <hr>
 
