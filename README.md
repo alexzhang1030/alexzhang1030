@@ -2,7 +2,7 @@ Hi there! 👋🏻 I am a
 
 - [@elk-zone](https://github.com/elk-zone) <sup>farm</sup> member
 - [@vue-macros](https://github.com/vue-macros) member
-- [vite-plugin-vue-devtools](https://github.com/webfansplz/vite-plugin-vue-devtools) maintainer
+- [vue-devtools-next](https://github.com/vuejs/devtools-next) maintainer
 
 <hr>
 
