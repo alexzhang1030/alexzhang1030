@@ -3,6 +3,7 @@ Hi there! 👋🏻 I am a
 - [@elk-zone](https://github.com/elk-zone) <sup>farm</sup> member
 - [@vue-macros](https://github.com/vue-macros) member
 - [vue-devtools-next](https://github.com/vuejs/devtools-next) maintainer
+- [vue-vine](https://github.com/vue-vine/vue-vine) member
 
 <hr>
 
