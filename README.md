@@ -1,5 +1,6 @@
 Hi there! 👋🏻 I am a
 
+- [vue](https://github.com/vuejs) <sup>devtools</sup> member
 - [@elk-zone](https://github.com/elk-zone) <sup>farm</sup> member
 - [@vue-macros](https://github.com/vue-macros) member
 - [vue-devtools-next](https://github.com/vuejs/devtools-next) maintainer
