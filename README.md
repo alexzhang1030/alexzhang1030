@@ -37,12 +37,6 @@ Other         9 mins          ░░░░░░░░░░░░░░░░�
 
 <hr>
 
-### 🎵 Recently Played
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)](https://netease-recent-profile.vercel.app/?id=297303604&show_percent=1&size=60)
-
-<hr>
-
 ### 👀 Visitors Count
 
 ![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
