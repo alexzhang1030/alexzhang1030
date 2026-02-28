@@ -26,7 +26,11 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Makefile    8 mins                ████████████████▓░░░░░░░░   67.05 %
+C++         1 min                 ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
+Markdown    1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+sshconfig   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+XML         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
