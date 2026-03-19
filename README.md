@@ -26,11 +26,11 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     6 hrs 1 min           ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-TypeScript   5 hrs 37 mins         ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-Rust         2 hrs 51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-JSON         1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Docker       1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+TypeScript   7 hrs 55 mins         ████████▓░░░░░░░░░░░░░░░░   35.25 %
+Markdown     7 hrs 8 mins          ████████░░░░░░░░░░░░░░░░░   31.76 %
+Rust         1 hr 39 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JSON         1 hr 25 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Docker       1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
 ```
 
 <!--END_SECTION:waka-->
