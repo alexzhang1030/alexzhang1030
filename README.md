@@ -26,9 +26,7 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   21 mins               ██████████████▒░░░░░░░░░░   57.53 %
-Lua      14 mins               █████████▒░░░░░░░░░░░░░░░   37.64 %
-Other    1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Docker   21 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
