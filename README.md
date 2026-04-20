@@ -26,11 +26,11 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Other        7 hrs 31 mins         █████████████░░░░░░░░░░░░   51.96 %
-Markdown     3 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-TypeScript   41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-sshconfig    34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Rust         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Other        7 hrs 45 mins         █████████████▒░░░░░░░░░░░   52.75 %
+Markdown     3 hrs 29 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+TypeScript   41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+sshconfig    34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Rust         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
