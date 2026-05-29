@@ -26,11 +26,11 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-JavaScript   1 hr 30 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-Other        1 hr 29 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-Python       1 hr 13 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Markdown     53 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+TypeScript   1 hr 40 mins          ███████▒░░░░░░░░░░░░░░░░░   29.30 %
+JavaScript   1 hr 30 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.43 %
+Python       1 hr 13 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+JSON         25 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+CSS          24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 ```
 
 <!--END_SECTION:waka-->
