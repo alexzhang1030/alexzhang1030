@@ -26,7 +26,8 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Other   2 mins                █████████████████████████   100.00 %
+Other      2 mins                ████████████████████▓░░░░   82.87 %
+Markdown   0 secs                ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
 ```
 
 <!--END_SECTION:waka-->
