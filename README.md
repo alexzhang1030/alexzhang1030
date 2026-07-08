@@ -26,11 +26,9 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 5 mins          █████████████▒░░░░░░░░░░░   53.48 %
-Other        1 hr 32 mins          █████████▓░░░░░░░░░░░░░░░   39.25 %
-sshconfig    12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Git Config   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Markdown     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Go          2 hrs 5 mins          ██████████████████████▒░░   89.78 %
+sshconfig   12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+Markdown    2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
