@@ -26,9 +26,11 @@ Hi there! 👋🏻 I am a
 <!--START_SECTION:waka-->
 
 ```txt
-Go          2 hrs 5 mins          ██████████████████████▒░░   88.78 %
-sshconfig   12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Markdown    3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Go           3 hrs 39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
+Python       2 hrs 50 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+JavaScript   2 hrs 40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Markdown     2 hrs 28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
+YAML         54 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
