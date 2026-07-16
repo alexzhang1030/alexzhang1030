@@ -10,33 +10,4 @@ Hi there! 👋🏻 I am a
 
 <hr>
 
-### 🧑‍💻 Things I code with
-
-<code><a href="https://github.com/vuejs/core"><img src="https://api.iconify.design/logos:vue.svg" /></a></code> 
-<code><a href="https://github.com/vitejs/vite"><img src="https://api.iconify.design/logos:vitejs.svg" /></a></code> 
-<code><a href="https://github.com/solidjs/solid"><img src="https://api.iconify.design/logos:solidjs-icon.svg" /></a></code> 
-<code><a href="https://github.com/microsoft/TypeScript"><img src="https://api.iconify.design/logos:typescript-icon.svg" /></a></code>
-<code><a href="https://github.com/unocss/unocss"><img src="https://api.iconify.design/logos:unocss.svg" /></a></code> 
-<code><a href="https://github.com/rust-lang/rust"><img src="https://api.iconify.design/logos:rust.svg" /></a></code>
-<code><a href="https://threejs.org/"><img src="https://api.iconify.design/logos:threejs.svg" /></a></code>
-<hr>
-
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Markdown     2 hrs 57 mins         ███████████▒░░░░░░░░░░░░░   45.50 %
-Python       2 hrs 55 mins         ███████████▒░░░░░░░░░░░░░   45.09 %
-JavaScript   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-TypeScript   12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-sshconfig    2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-```
-
-<!--END_SECTION:waka-->
-
-<hr>
-
-### 👀 Visitors Count
-
-![gh_visitors](https://profile-counter.glitch.me/alexzhang1030/count.svg)
+I'm working on robotics stuffs, frontend stuffs, and toolchain things.
