@@ -1,5 +1,3 @@
-![Coding For Fun](https://glitch-art.vercel.app/api/simple?word=<Life%20/>)
-
 Hi there! 👋🏻 I am a
 
 - [@vue](https://github.com/vuejs) <sup>devtools</sup> member
